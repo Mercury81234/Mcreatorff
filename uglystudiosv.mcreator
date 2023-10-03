@@ -1,0 +1,71 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Kevin1545",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kevin_1545"
+    },
+    {
+      "name": "Kevin1545keybindingOnKeyPressed",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kevin_1545keybinding_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kevin1545keybinding",
+      "type": "keybind",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kevin_1545keybinding"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.kevin_1545.name": "kevin1545",
+      "key.mcreator.kevin_1545keybinding": "Kevin 1 5 4 5keybinding"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "uglystudiosv",
+    "modName": "UglyStudiosV1",
+    "version": "1.0.0",
+    "author": "emira, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.uglystudiosv",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
